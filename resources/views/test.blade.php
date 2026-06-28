@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Esto es la pagina TEST {{-- $id --}}</h1>
-    <p></p>
+    <p>git</p>
     
 </body>
 </html>
